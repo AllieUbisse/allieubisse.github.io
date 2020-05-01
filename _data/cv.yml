@@ -1,0 +1,54 @@
+jdecent:
+    profile: "Integer sit amet libero non sapien sagittis dapibus. Phasellus gravida quam ac nisl finibus dictum. Pellentesque vel orci et nisi pretium tincidunt nec a diam. Vivamus et leo eu lorem congue pellentesque id sed tortor. Nulla et nibh neque. Sed ut fermentum lectus, id rhoncus erat."
+    skills:
+        - "Python3 - Pandas, numpy, sklearn "
+        - "C++"
+        - "Azure - VM, RDS, Data Lake, Data Factory, DevOps pipeline"
+        - "AWS cloud - RDS, S3"
+        - "Machine Learning"
+    education:
+        - time:             "2016 - 2018"
+          location:         "University of Limpopo"
+          description:      "BSc Mathematical Science Computer Science"
+    employment:
+        - time:             "01.2019 - present"
+          location:         "RSA(Cape Town)"
+          company:          "Explore Software"
+          position:         "Intern (Data Scientist)"
+          responsibilities:
+            - "Support of web applications"
+            - "Training of students"
+            - "Flirting with the secretary"
+        - time:             "08.2011 - 02.2015"
+          location:         "Berlin"
+          company:          "Local-B Company"
+          position:         "Junior Developer"
+          responsibilities:
+            - "Developed jQuery plugins"
+            - "Had a nice place on the window"
+            - "Dreamed about beeing a senior developer"
+    projects:
+        - time:             "5 months in 2017"
+          team:             "Team of 2"
+          title:            "Web Project"
+          technologies:     "C#, JavaScript, HTML5, CSS"
+          responsibilities:
+            - "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet finibus libero sed ullamcorper. Donec."
+            - "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed."
+            - "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sodales ligula sit amet nisl pellentesque, eu cursus neque."
+        - time:             "9 months in 2016"
+          team:             "Team of 6"
+          title:            "Android App"
+          technologies:     "Mono, .NET"
+          responsibilities:
+            - "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum commodo, urna id hendrerit interdum, metus dui ultricies massa."
+            - "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sagittis leo nec lacus aliy rutrum."
+            - "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum."
+        - time:             "3 months in 2015"
+          team:             "Team of 2"
+          title:            "Software Evaluation"
+          technologies:     "Recruting, .NET"
+          responsibilities:
+            - "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum commodo, urna id hendrerit interdum, metus dui ultricies massa."
+            - "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sagittis leo nec lacus aliy rutrum."
+            - "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum."
