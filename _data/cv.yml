@@ -10,6 +10,9 @@ jdecent:
         - time:             "2016 - 2018"
           location:         "University of Limpopo"
           description:      "BSc Mathematical Science Computer Science"
+        - time:             "2019 - present"
+          location:         "University of Limpopo"
+          description:      "BSc Honours (Computer Science)"
     employment:
         - time:             "01.2019 - present"
           location:         "RSA(Cape Town)"
