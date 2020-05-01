@@ -3,14 +3,14 @@ default:                                                      # Fallback if noth
   name:         "Allie .S Ubisse"                               # used to display author name
   cover:        /assets/mountain-alternative-cover.jpg        # OPTIONAL: defines location of cover image in about page
   picture:      /assets/allie-ubisse-troinux.png                           # OPTIONAL: author picture
-  bio:          This is my bio!                               # OPTIONAL: text below author name in posts
+  bio:          Junior Data Scientist                               # OPTIONAL: text below author name in posts
   location:     South Africa                                      # OPTIONAL: used to display location of the author
   website:      "https://allieubisse.github.io/allieubisse.github.io/cv" # OPTIONAL: link to the author of a post
-  email:        AllieSilverUbisse@gmail.com                   # OPTIONAL: used in the about page
-  twitter:      troinux                                       # OPTIONAL: used in the about page
+  email:        "AllieSilverUbisse@gmail.com"                   # OPTIONAL: used in the about page
+  twitter:      "troinux"                                       # OPTIONAL: used in the about page
   linkedin:                                                   # OPTIONAL: used in the about page
   xing:                                                       # OPTIONAL: used in the about page
-  github:       AllieUbisse                                   # OPTIONAL: used in the about page
+  github:       "AllieUbisse"                                   # OPTIONAL: used in the about page
   stackoverflow:                                              # OPTIONAL: used in the about page
   facebook:                                                   # OPTIONAL: used in the about page
   gplus:                                                      # OPTIONAL: used in the about page
