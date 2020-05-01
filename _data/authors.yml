@@ -28,17 +28,18 @@ jdecent:
   name:         "Allie .S Ubisse"       
   cover:        /assets/mountain-alternative-cover.jpg  
   picture:      /assets/allie-ubisse-troinux.png 
-  bio:          This is my bio!
+  bio:          Junior Data Scientist
   location:     South Africa
-  email:        "-"   
-  twitter:      "-"    
-  twitch:       "-"
+  email:        AllieSilverUbisse@gmail.com 
+  twitter:      troinux   
+  github:       AllieUbisse 
+  twitch:       
 jwillmer:
   initial:      AUbisse
   name:         "Allie .S Ubisse"         
   picture:      /assets/jwillmer.jpg  
   bio:          All about technology 
-  location:     Germany 
+  location:     South Africa 
   website:      "https://allieubisse.github.io/allieubisse.github.io/cv" 
   twitter:      troinux
   github:       AllieUbisse 
