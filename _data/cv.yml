@@ -1,11 +1,12 @@
 jdecent:
     profile: "Integer sit amet libero non sapien sagittis dapibus. Phasellus gravida quam ac nisl finibus dictum. Pellentesque vel orci et nisi pretium tincidunt nec a diam. Vivamus et leo eu lorem congue pellentesque id sed tortor. Nulla et nibh neque. Sed ut fermentum lectus, id rhoncus erat."
     skills:
-        - "Python3 - Pandas, numpy, sklearn "
+        - "Python3 - Pandas, numpy, sklearn"
         - "C++"
-        - "Azure - VM, RDS, Data Lake, Data Factory, DevOps pipeline"
+        - "Azure cloud - VM, RDS, Data Lake, Data Factory, DevOps pipeline"
         - "AWS cloud - RDS, S3"
         - "Machine Learning"
+        - " CI/CD pipeline"
     education:
         - time:             "2016 - 2018"
           location:         "University of Limpopo"
@@ -15,7 +16,7 @@ jdecent:
           description:      "BSc Honours (Computer Science)"
     employment:
         - time:             "01.2019 - present"
-          location:         "RSA(Cape Town)"
+          location:         "RSA, Cape Town"
           company:          "Explore Software"
           position:         "Intern (Data Scientist)"
           responsibilities:

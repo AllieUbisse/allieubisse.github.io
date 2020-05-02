@@ -8,7 +8,7 @@ default:                                                      # Fallback if noth
   website:      "https://allieubisse.github.io/allieubisse.github.io/cv" # OPTIONAL: link to the author of a post
   email:        "AllieSilverUbisse@gmail.com"                   # OPTIONAL: used in the about page
   twitter:      "troinux"                                       # OPTIONAL: used in the about page
-  linkedin:                                                   # OPTIONAL: used in the about page
+  linkedin:     "allie-silver-ubisse"                                             # OPTIONAL: used in the about page
   xing:                                                       # OPTIONAL: used in the about page
   github:       "AllieUbisse"                                   # OPTIONAL: used in the about page
   stackoverflow:                                              # OPTIONAL: used in the about page
@@ -33,6 +33,7 @@ jdecent:
   email:        AllieSilverUbisse@gmail.com 
   twitter:      troinux   
   github:       AllieUbisse 
+  linkedin:     allie-silver-ubisse
   twitch:       
 jwillmer:
   initial:      AUbisse
@@ -42,4 +43,5 @@ jwillmer:
   location:     South Africa 
   website:      "https://allieubisse.github.io/allieubisse.github.io/cv" 
   twitter:      troinux
-  github:       AllieUbisse 
+  github:       AllieUbisse
+  linkedin:     allie-silver-ubisse 
