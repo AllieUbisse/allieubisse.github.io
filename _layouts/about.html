@@ -66,7 +66,9 @@ layout: headless
         <section class="post-content"> 
 
             {{content}} 
-                    <div class="author-meta">
+
+            <center>
+           <div class="author-meta">
             {%  if author.email %}<a href="mailto:{{ author.email }}" itemprop="email" class="icon-mail">Mail</a>{% endif %}
 
             {%  if author.twitter %}<a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs" class="icon-twitter">Twitter</a> {% endif %}
@@ -89,7 +91,7 @@ layout: headless
             {%  if author.behance %}<a href="https://www.behance.net/{{ author.behance }}" itemprop="sameAs" class="icon-behance">Behance</a> {% endif %}  
             {%  if author.s500px %}<a href="https://500px.com/{{ author.s500px }}" itemprop="sameAs" class="icon-500px">500px</a> {% endif %}
             {%  if author.reddit %}<a href="https://de.reddit.com/user/{{ author.reddit }}" itemprop="sameAs" class="icon-reddit">Reddit</a> {% endif %}
-        </div>                         
+        </div></center>>                         
         </section>
 
     </article>
