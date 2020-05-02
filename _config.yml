@@ -19,6 +19,7 @@ cover:            /assets/mountain-cover.jpg
 disqus_shortname: "InfiniteImpactInsights"
 
 # Build settings
+google_font: 'Droid+Sans:400,700'
 sass:
     style: compressed
 markdown: kramdown
