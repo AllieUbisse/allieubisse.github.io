@@ -3,15 +3,20 @@ layout:    about
 permalink: "/about"
 author:    jdecent
 keywords:  about person demo example
-title:     About Jekyll Decent
+title:     About Allie Ubisse
 menutitle: About
 weight:    90
 excerpt:   This page contains the curriculum vitae (CV) of the author.
 --- 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-If you like this theme and like to show your appreciation then please leave a star in the GitHub repository or [buy me a coffee](https://www.paypal.me/jenswillmer/3) - Thank you!
 
+### My favorite Miss Manners quotes:
+
+>Allowing an unimportant mistake to pass without comment is a wonderful social grace.
+>Ideological differences are no excuse for rudeness.
+> 
+> <cite>——Unknown</cite>
 <p class="github-button-container">
 <a class="github-button" href="https://github.com/jwillmer/jekyllDecent" data-size="large" data-show-count="true" aria-label="Star jwillmer/jekyllDecent on GitHub">jekyllDecent</a>
 </p>
