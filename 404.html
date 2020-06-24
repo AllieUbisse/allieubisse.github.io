@@ -5,10 +5,37 @@ visible: false
 ---
 
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="allieubisse" data-slug-hash="GRomeRQ" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="404 Page">
-  <span>See the Pen <a href="https://codepen.io/allieubisse/pen/GRomeRQ">
-  404 Page</a> by Allie Silver Ubisse (<a href="https://codepen.io/allieubisse">@allieubisse</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
+<div id="content" class="content">
+    <header class="post-header short-diver">
+        <h1 class="post-title">Page not found</h1>
+        <p>The page you requested could not be found.</p>
+    </header>
+
+    <h3>Similar URLs</h3>
+    <ul class="category recent-posts">
+        <ul class="urlSuggestions"></ul>
+    </ul>
+</div>
+
+<script id="article-template" type="text/x-custom-template">
+    <li>
+        <div class="article">
+            <article class="article" itemscope itemtype="http://schema.org/BlogPosting">
+                <header class="post-header">
+                    <span class="title"><a itemprop="name" href="" title=""></a></span>
+                    <time class="date" itemprop="datePublished" datetime=""></time>
+                </header>
+            </article>
+        </div>
+    </li>
+</script>
+
+<script src="{{ "/js/jquery-1.12.0.min.js" | absolute_url }}"></script>
+<script src="{{ "/js/fuzzyset.js" | absolute_url }}"></script>
+<script src="{{ "/js/offline.js" | absolute_url }}"></script>
+<script>
+    $(document).ready(function () {
+        insertSimilarUrls(String(window.location.href), "{{ "/api/posts.json" | absolute_url }}", "#article-template", ".urlSuggestions", 10);
+    });
+</script>
