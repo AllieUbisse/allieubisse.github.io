@@ -1,37 +1,63 @@
 jdecent:
     profile: "Integer sit amet libero non sapien sagittis dapibus. Phasellus gravida quam ac nisl finibus dictum. Pellentesque vel orci et nisi pretium tincidunt nec a diam. Vivamus et leo eu lorem congue pellentesque id sed tortor. Nulla et nibh neque. Sed ut fermentum lectus, id rhoncus erat."
     skills:
-        - "Python3 - Pandas, numpy, sklearn"
-        - "C++"
-        - "Azure cloud - VM, RDS, Data Lake, Data Factory, DevOps pipeline"
-        - "AWS cloud - RDS, S3"
-        - "Machine Learning"
-        - " CI/CD pipeline"
+#---------------------------skills-------------------------------
+        - "Agile Tools- DevOps Boards, Trello"
+        - "Languages - Python3, SQL, C++, Java, Bash-scripting" 
+        - "Data Manipulation - Pandas, Numpy, Pyspark"
+        - "Visualization - Matplitlib, Seaborn, PowerBi"
+        - "Data Pipeline - Spark Structured streaming, Delta Lake"
+        - "Database - Microsoft SQL-Server"
+        - "Machine Learning - scikit-learn, SparkML, MLFlow"
+        - "Model Deployment - StreamLit, Flask-Api"
+        - "Deep Learning - TensorFlow (Keras)"
+        - "Azure cloud - VM, Event-Hub, Azure Data Lake, Data Factory, Azure DataBricks"
+        - "AWS cloud - EC2, RDS, S3, and more"
+        - "Version Control - GitHub, MLFlow"
+        - "Operating system - Linux(ubuntu/CentOs), windows"
+#---------------------------skills-------------------------------
+
     education:
+#---------------------------education-------------------------------
+        - time:             "2020 - 2020"
+          location:         "Explore Data Science Academy - (RSA, Western Cape)"
+          description:      "Data science Theory & Technical skills,
+                            Agile End to end Project, communication,
+                             Classification, Regression, NLP, Clustering,
+                              Recommendation, AWS CLOUD Tools"
+
+        - time:             "2019 - 2019"
+          location:         "University of Limpopo - (RSA, Limpopo)"
+          description:      "BSc Honours (Computer Science)"   
+
         - time:             "2016 - 2018"
-          location:         "University of Limpopo"
-          description:      "BSc Mathematical Science Computer Science"
-        - time:             "2019 - present"
-          location:         "University of Limpopo"
-          description:      "BSc Honours (Computer Science)"
+          location:         "University of Limpopo - (RSA, Limpopo)"
+          description:      "BSc Mathematical Science"           
+#--------------------------education------------------------------
+
     employment:
-        - time:             "01.2019 - present"
-          location:         "RSA, Cape Town"
-          company:          "Explore Software"
-          position:         "Intern (Data Scientist)"
+#--------------------------employment------------------------------
+        - time:             "01.2020 - present"
+          location:         "RSA,  Western Cape"
+          company:          "Explore Data Science Academy"
+          position:         "Data Scientist Intern"
           responsibilities:
             - "Support of web applications"
             - "Training of students"
             - "Flirting with the secretary"
-        - time:             "08.2011 - 02.2015"
-          location:         "Berlin"
-          company:          "Local-B Company"
-          position:         "Junior Developer"
+
+        - time:             "08.2020 - present"
+          location:         "RSA,  Western Cape"
+          company:          "Explore Software"
+          position:         "Data Scientist Intern"
           responsibilities:
-            - "Developed jQuery plugins"
-            - "Had a nice place on the window"
-            - "Dreamed about beeing a senior developer"
+            - "ThamesWater Proof of Concept: Smart-Waste Efluent monitoring "
+            - "Training of students"
+            - "Flirting with the secretary"
+#--------------------------employment------------------------------
+
     projects:
+#--------------------------projects------------------------------
         - time:             "5 months in 2017"
           team:             "Team of 2"
           title:            "Web Project"

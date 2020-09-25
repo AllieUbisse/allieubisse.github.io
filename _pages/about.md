@@ -10,12 +10,13 @@ excerpt:   This page contains the curriculum vitae (CV) of the author.
 --- 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-
-### My favorite Miss Manners quotes:
-
 >Allowing an unimportant mistake to pass without comment is a wonderful
 > social grace.
 >Ideological differences are no excuse for rudeness.
 > 
 > <cite>——Unknown</cite>
+
 <br/>
+
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=http://img.labnol.org/di/PowerPoint.ppt' frameborder='0'></iframe>
+
